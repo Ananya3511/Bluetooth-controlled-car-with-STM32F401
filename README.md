@@ -69,5 +69,3 @@ The Bluetooth module is initialized with `bt.begin(9600)`, and incoming Bluetoot
 - `Power` : Make sure your power supply is appropriate for both the STM32F401 board and the motors.
 This should give you a functional setup with STM32F401 in the Arduino IDE, and it can easily be customized further based on your needs!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
